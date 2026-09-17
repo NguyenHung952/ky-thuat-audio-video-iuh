@@ -12,7 +12,7 @@ Kho tài liệu học tập môn **Kỹ thuật Audio-Video** tại IUH.
 | `03_File_goc/` | File nén và tài liệu gốc |
 | `Bai giang/` | Bộ bài giảng bổ sung |
 
-Repository hiện có tài liệu chương trình môn học, các bộ bài giảng tổng hợp, bài giảng chương 1–6, tài liệu tiếng Anh C1–C14 và các file gốc/nén. fileciteturn9file0L2-L2
+Repository hiện có tài liệu chương trình môn học, các bộ bài giảng tổng hợp, bài giảng chương 1–6, tài liệu tiếng Anh C1–C14 và các file gốc/nén. 
 
 ## Nội dung tài liệu
 
